@@ -1,0 +1,9 @@
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\bin\Debug\GeoWallE.dll
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\bin\Debug\GeoWallE.pdb
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.csproj.AssemblyReference.cache
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.AssemblyInfoInputs.cache
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.AssemblyInfo.cs
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.csproj.CoreCompileInputs.cache
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.dll
+C:\Users\Reynol\Desktop\GeoWallE\.mono\temp\obj\Debug\GeoWallE.pdb
